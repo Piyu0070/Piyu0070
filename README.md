@@ -1,4 +1,4 @@
-\<h1 align="center">Hey 👋 Piyush Bodhani, this side</h1>
+<h1 align="center">Hey 👋 Piyush Bodhani, this side</h1>
 
 ###
 
