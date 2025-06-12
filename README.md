@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush😉</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data developer from India</h3>
 
 - 🔭 I'm currently working on [buit-edb-goso-one-dataspine and buit-edb-goso-one-dataspine-dt](https://github.com/EliLillyCo/buit-edb-goso-one-dataspine)
 
