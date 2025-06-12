@@ -77,11 +77,28 @@
 
 ---
 
-### 📈 LeetCode Stats
+### 📊 Programming Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LeetCode-Stats-orange?style=for-the-badge&logo=leetcode" height="28" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HackerRank-Stats-brightgreen?style=for-the-badge&logo=hackerrank" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/piyushbodhani01" target="_blank">
+        <img src="https://github.com/Piyu0070/hackerrank-readme-badge/raw/main/hackerrank-profile-badge.png" height="240" alt="HackerRank Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
