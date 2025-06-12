@@ -84,20 +84,22 @@
 
 ### 📊 Programming Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- LeetCode Stats -->
-        <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
-      </td>
-      <td align="center">
-        <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="400"/>
-      </td>
-    </tr>
-  </table>
+### 📊 Programming Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- LeetCode Stats -->
+  <div style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); border-radius: 12px; padding: 10px; background: #1a1a1a;">
+    <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+  </div>
+
+  <!-- GitHub Stats -->
+  <div style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); border-radius: 12px; padding: 10px; background: #1a1a1a;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="400"/>
+  </div>
+
 </div>
+
 
 
 
