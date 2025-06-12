@@ -78,27 +78,9 @@
 ---
 
 ### 📊 Programming Stats
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/LeetCode-Stats-orange?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode Stats Badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HackerRank-Stats-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" alt="HackerRank Stats Badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Problem-solving-★%20Gold-green?logo=hackerrank" alt="HackerRank Problem Solving Badge" />
-      <br>
-      <img src="https://img.shields.io/badge/SQL-Silver-blue?logo=hackerrank" alt="HackerRank SQL Badge"/>
-      <!-- Add more badge types as needed -->
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
