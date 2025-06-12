@@ -78,14 +78,13 @@
 ---
 
 ### 📊 Programming Stats
-
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/LeetCode-Stats-orange?style=for-the-badge&logo=leetcode" height="28" />
+      <img src="https://img.shields.io/badge/LeetCode-Stats-orange?style=for-the-badge&logo=leetcode&logoColor=black" height="28" alt="LeetCode Stats Badge"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/HackerRank-Stats-brightgreen?style=for-the-badge&logo=hackerrank" height="28" />
+      <img src="https://img.shields.io/badge/HackerRank-Stats-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" height="28" alt="HackerRank Stats Badge"/>
     </td>
   </tr>
   <tr>
@@ -93,9 +92,10 @@
       <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
     </td>
     <td align="center">
-      <a href="https://www.hackerrank.com/profile/piyushbodhani01" target="_blank">
-        <img src="https://github.com/Piyu0070/hackerrank-readme-badge/raw/main/hackerrank-profile-badge.png" height="240" alt="HackerRank Stats" />
-      </a>
+      <img src="https://img.shields.io/badge/Problem-solving-★%20Gold-green?logo=hackerrank" alt="HackerRank Problem Solving Badge" />
+      <br>
+      <img src="https://img.shields.io/badge/SQL-Silver-blue?logo=hackerrank" alt="HackerRank SQL Badge"/>
+      <!-- Add more badge types as needed -->
     </td>
   </tr>
 </table>
