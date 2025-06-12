@@ -17,7 +17,46 @@
 
 ---
 🛠️ Tech Stack
-<table align="center"> <tr> <th>Python</th> <th>AWS</th> <th>PostgreSQL</th> <th>MySQL</th> <th>Pandas</th> <th>NumPy</th> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" /></td> </tr> </table> <br> <table align="center"> <tr> <th>PyTorch</th> <th>TensorFlow</th> <th>GitHub</th> <th>GitLab</th> <th>Jira</th> <th>VS Code</th> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" /></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /></td> </tr> </table>
+<table align="center"> 
+  <tr> 
+    <th>Python</th> 
+    <th>AWS</th> 
+    <th>PostgreSQL</th> 
+    <th>MySQL</th> 
+    <th>Databricks</th> 
+    <th>NumPy</th> 
+  </tr> 
+  <tr> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /></td> 
+    <td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" /></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" /></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></td> 
+    <td align="center"><img src="https://cdn.simpleicons.org/databricks/E8721D" height="40" /></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" /></td> 
+  </tr> 
+</table> 
+
+<br> 
+
+<table align="center"> 
+  <tr> 
+    <th>PySpark</th> 
+    <th>TensorFlow</th> 
+    <th>GitHub</th> 
+    <th>Airflow</th> 
+    <th>Jira</th> 
+    <th>VS Code</th> 
+  </tr> 
+  <tr> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" title="PySpark (Apache)" /></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" /></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /></td> 
+    <td align="center"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" /></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" /></td> 
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /></td> 
+  </tr> 
+</table>
+
 
 ---
 
