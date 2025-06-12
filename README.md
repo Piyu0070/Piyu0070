@@ -87,15 +87,6 @@
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200"/>
     </td>
-
-    <!-- LeetCode Badges -->
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/100-days-badge-2022.png" alt="100 Days Badge 2022" height="80" />
-      &nbsp;
-      <img src="https://leetcode.com/static/images/badges/april-leetcoding-challenge-2023.png" alt="April LeetCoding Challenge" height="80" />
-      &nbsp;
-      <img src="https://leetcode.com/static/images/badges/graph-theory-i.png" alt="Graph Theory I Badge" height="80" />
-    </td>
   </tr>
 </table>
 
