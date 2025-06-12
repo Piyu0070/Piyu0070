@@ -82,9 +82,6 @@
 
 ### 📊 Programming Stats
 
-
-### 📊 Programming Stats
-
 <table align="center">
   <tr>
     <td align="center" style="background-color:#1a1a1a; border-radius:12px; padding:10px;">
@@ -95,6 +92,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
