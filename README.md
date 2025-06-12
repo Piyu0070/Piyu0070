@@ -81,16 +81,18 @@
 ---
 
 ### 📊 Programming Stats
+
 <table align="center">
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
-</p>
+  <tr>
+    <!-- LeetCode Stats -->
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" height="300" />
+    </td>
+
+    <!-- GitHub Streak Stats -->
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="300" />
+    </td>
+  </tr>
 </table>
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
