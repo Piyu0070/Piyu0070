@@ -43,12 +43,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<!-- Uncomment below if you'd like to add GitHub stats later -->
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyu0070&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
--->
+
 
 ---
 
