@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piyush😉</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [buit-edb-goso-one-dataspine and buit-edb-goso-one-dataspine-dt](https://github.com/EliLillyCo/buit-edb-goso-one-dataspine)
+- 🔭 I'm currently working on [buit-edb-goso-one-dataspine and buit-edb-goso-one-dataspine-dt](https://github.com/EliLillyCo/buit-edb-goso-one-dataspine)
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I'm currently learning **AI and ML**
 
-- 👯 I’m looking to collaborate on **Data Engineering and ML Project's**
+- 👯 I'm looking to collaborate on **Data Engineering and ML Project's**
 
-- 💬 Ask me about **Data Engineering 🌍..!**
+- 💬 Ask me about **Data Engineering and AI/ML World🌍..!**
 
 - 📫 How to reach me **piyushbodhani01@gmail.com**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/piyush-bodhani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-bodhani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
