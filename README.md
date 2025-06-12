@@ -82,17 +82,20 @@
 
 ### 📊 Programming Stats
 
-<table align="center">
-  <tr>
-    <!-- LeetCode Stats -->
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" height="300" />
-    </td>
+<div align="center">
+  <table>
+    <tr>
+      <!-- LeetCode Stats -->
+      <td>
+        <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+      </td>
+      
+      <!-- GitHub Streak Stats -->
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-    <!-- GitHub Streak Stats -->
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="300" />
-    </td>
-  </tr>
-</table>
 
