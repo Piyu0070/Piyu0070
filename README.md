@@ -65,15 +65,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-bodhani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn Badge" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Piyu569/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=FFA116" height="30" alt="LeetCode Badge" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" title="LeetCode" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/piyushbodhani01" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" alt="HackerRank Badge" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" alt="HackerRank" title="HackerRank" />
   </a>
 </p>
+
 
 ---
 
