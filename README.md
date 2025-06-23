@@ -30,7 +30,7 @@
   </tr> 
   <tr> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /></td> 
-    <td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" /></td> 
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" /></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" /></td> 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></td> 
     <td align="center"><img src="https://cdn.simpleicons.org/databricks/E8721D" height="40" /></td> 
