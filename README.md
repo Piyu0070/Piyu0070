@@ -58,14 +58,10 @@ class Piyush:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyu0070&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub Stats"/>
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Piyu0070&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="420" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu0070&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="380" alt="Top Languages"/>
-  &nbsp;
   <img src="https://leetcard.jacoblin.cool/Piyu569?theme=dark&font=Baloo&ext=heatmap" width="420" alt="LeetCode Stats"/>
 </p>
 
