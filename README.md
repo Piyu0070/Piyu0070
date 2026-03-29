@@ -132,15 +132,17 @@ class Piyush:
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Piyu0070&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=00e5ff&text_color=c9d8ef&bg_color=0d1117" width="400" alt="GitHub Stats"/>
     </td>
-    <td align="center" width="400">
+    <td align="center" width="380">
       <br/>
-      <b style="color:#58A6FF">🗣️ Most Used Languages</b>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=220&lines=Most+Used+Languages" alt="Most Used Languages"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" title="Python"/>
+      &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="52" title="PySpark"/>
+      &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="52" title="SQL"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <sub><b>Python &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; SQL</b></sub>
       <br/><br/>
     </td>
   </tr>
