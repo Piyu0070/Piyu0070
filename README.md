@@ -54,7 +54,7 @@ class Piyush:
     </td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Cloud & CI/CD</b></td>
+    <td align="center"><b>☁️ Cloud & DevOps</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="32" title="AWS"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32" title="GitHub"/>&nbsp;
@@ -133,19 +133,12 @@ class Piyush:
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Piyu0070&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=00e5ff&text_color=c9d8ef&bg_color=0d1117" width="400" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Piyu0070&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d8ef&bg_color=0d1117&langs_count=8" width="400" alt="Top Languages"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Piyu0070&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d8ef&bg_color=0d1117&langs_count=3&hide=html,css,javascript,typescript,shell,dockerfile" width="400" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Piyu0070&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-</p>
-
 
 ---
 
