@@ -54,7 +54,7 @@ class Piyush:
     </td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td align="center"><b>☁️ Cloud & CI/CD</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="32" title="AWS"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32" title="GitHub"/>&nbsp;
