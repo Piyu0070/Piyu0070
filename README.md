@@ -43,33 +43,72 @@ class Piyush:
 
 ## 🛠️ Tech Stack
 
-<!-- Animated skill banner -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,postgresql,mysql,tensorflow,github,vscode,git&theme=dark&perline=8" />
-</p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/databricks/E8721D" height="40" title="Databricks" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" title="Apache Airflow" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" title="PySpark" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" title="Jira" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>⚙️ Data Engineering</b></td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="32" title="PySpark"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/databricks/E8721D" height="32" title="Databricks"/>&nbsp;
+      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="32" title="Apache Airflow"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="32" title="Apache Hadoop"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="32" title="AWS"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" height="32" title="GitHub"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="32" title="Git"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="32" title="VS Code"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="32" title="PostgreSQL"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" title="MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI / ML</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="32" title="TensorFlow"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" title="NumPy"/>&nbsp;
+      <img src="https://img.shields.io/badge/GenAI-7c3aed?style=flat-square&logo=openai&logoColor=white" height="28" title="GenAI"/>&nbsp;
+      <img src="https://img.shields.io/badge/MLOps-58A6FF?style=flat-square&logoColor=white" height="28" title="MLOps"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🐍 Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="32" title="Python"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="32" title="SQL"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32" title="Jira"/>
+    </td>
+  </tr>
+</table>
 
-<!-- Animated scrolling tech pills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-E8721D?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-58A6FF?style=for-the-badge&logo=mlflow&logoColor=white"/>
-</p>
+---
+
+## 🎓 Certifications
+
+<table align="center">
+  <tr>
+    <td align="center" width="60">🏅</td>
+    <td><b>Databricks Certified Data Engineer Professional</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Databricks-E8721D?style=flat-square&logo=databricks&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>Databricks Certified Data Engineer Associate</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Databricks-E8721D?style=flat-square&logo=databricks&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>AWS Certified AI Practitioner</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -91,10 +130,10 @@ class Piyush:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Piyu0070&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=00e5ff&text_color=c9d8ef&bg_color=0d1117" width="400" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Piyu0070&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=00e5ff&text_color=c9d8ef&bg_color=0d1117" width="400" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyu0070&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d8ef&bg_color=0d1117" width="400" alt="Top Languages"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Piyu0070&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d8ef&bg_color=0d1117&langs_count=8" width="400" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -103,19 +142,10 @@ class Piyush:
 
 ## 🏆 GitHub Trophies
 
-<!-- Animated trophy shelf -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyu0070&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Piyu0070&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<!-- Animated contribution graph wave -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyu0070&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&line=00e5ff&point=58A6FF&color=c9d8ef" width="100%" alt="Contribution Graph"/>
-</p>
 
 ---
 
@@ -149,10 +179,6 @@ class Piyush:
   </a>
 </p>
 
-<!-- Animated quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
 
 ---
 
