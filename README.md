@@ -132,13 +132,19 @@ class Piyush:
     <td align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Piyu0070&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=00e5ff&text_color=c9d8ef&bg_color=0d1117" width="400" alt="GitHub Stats"/>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Piyu0070&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d8ef&bg_color=0d1117&langs_count=3&hide=html,css,javascript,typescript,shell,dockerfile" width="400" alt="Top Languages"/>
+    <td align="center" width="400">
+      <br/>
+      <b style="color:#58A6FF">🗣️ Most Used Languages</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <br/><br/>
     </td>
   </tr>
 </table>
-
----
 
 ---
 
